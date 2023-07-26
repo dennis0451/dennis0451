@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **Dennis.corral@outlook.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1qBncm-wCfavENj7X-PY56T0RTXiNWvEV20H5jdS0mno/edit#heading=h.j3wptpj6dqfg](https://docs.google.com/document/d/1qBncm-wCfavENj7X-PY56T0RTXiNWvEV20H5jdS0mno/edit#heading=h.j3wptpj6dqfg)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dennis-corral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dennis-corral" height="30" width="40" /></a>
