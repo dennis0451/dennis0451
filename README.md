@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennis</h1>
-<h3 align="center">A passionate full-stack developer located in Washington D.C.</h3>
+<h3 align="center">A passionate full-stack developer located in Los Angeles, CA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennis0451&label=Profile%20views&color=0e75b6&style=flat" alt="dennis0451" /> </p>
 
